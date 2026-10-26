@@ -21,6 +21,7 @@ Online tools for reducing image file size without noticeable quality loss.
 - [TinyPNG](https://tinypng.com) – Smart lossy compression for PNG and JPEG images.
 - [ImageOptim](https://imageoptim.com/online) – Online version of the popular image compression tool.
 - [Squoosh](https://squoosh.app) – Advanced image compression tool by Google with fine-grained controls.
+- [ImgFlow](https://imgflow.taoliapp.com) – Privacy-first image compression and format conversion that runs entirely in the browser.
 - [Compress JPEG](https://compressjpeg.com) – Simple bulk JPEG image compression online.
 - [Compress 50 KB](https://compress50kb.com/) – Compress images to exactly 50 KB, ideal for strict size limits.
 - [BulkPicTools](https://bulkpictools.com/) - A privacy-first, client-side batch image processor (Compress, Convert, Crop) based on WebAssembly.
